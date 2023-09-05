@@ -16,7 +16,7 @@ To run this application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/car-price-estimation.git
+   git clone https://github.com/SamZadbuke/oibsip_task3.git
    ```
   
 2. Navigate to the project directory:
