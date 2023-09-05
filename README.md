@@ -22,7 +22,7 @@ To run this application locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd car-price-estimation
+   cd oibsip_task3
    ```
 
 3. Install the required dependencies:
