@@ -17,8 +17,8 @@ To run this application locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/car-price-estimation.git
-  ```
-
+   ```
+  
 2. Navigate to the project directory:
 
    ```bash
